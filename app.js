@@ -16,4 +16,4 @@ const textRoutes = require("./routes/text");
 // Use routes
 app.use("/api/text", textRoutes);
 
-app.listen(3000)
+app.listen(10001)

@@ -28,5 +28,13 @@
     "node": "^15.4.0",
     "nodemon": "^2.0.6"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoJunHeum/readBook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChoJunHeum/readBook/issues"
+  },
+  "homepage": "https://github.com/ChoJunHeum/readBook#readme"
 }
